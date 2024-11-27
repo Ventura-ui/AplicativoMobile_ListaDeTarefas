@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GerenciadoTarefas_mvvm</string>
+    <string name="add_new_task">Adicionar nova tarefa.</string>
+    <string name="task_description">Descrição da tarefa</string>
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="task_inserted_sucess">Tarefa inserida com sucesso.</string>
+    <string name="task_inserted_error">Erro ao inserir tarefa.</string>
+    <string name="title_view">Lista de tarefas</string>
+
+    <string-array name="opcoes_spinner">
+        <item>Todas as tarefas</item>
+        <item>Tarefas não concluídas</item>
+        <item>Tarefas concluídas</item>
+    </string-array>
+</resources>
